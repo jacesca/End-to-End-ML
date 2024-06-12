@@ -1,0 +1,10 @@
+SEED=42
+
+SAVED_MODEL_PATH=/app/local-saved-models/heart_disease
+TEST_DATA_PATH=/app/datasets/heart_disease_cleaned_2.csv
+FEATURES_SELECTED_PATH=/app/local-saved-models/features_selected.pkl
+SCALER_PATH=/app/local-saved-models/scaler.pkl
+PARQUET_FILE_PATH=/app/FEATURE_STORE_PATH/heart_disease.parquet
+FEATURE_STORE_PATH=/app/FEATURE_STORE_PATH/
+SAVED_FIGURE_PATH=/app/saved-images/
+LOGS_PATH=/app/logs/predictions.log
