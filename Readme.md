@@ -37,7 +37,7 @@ python -m unittest -v .\tests\test_model.py
 - Fork the project into your GitHub
 - Clone it into your dektop
 ```
-git clone https://github.com/jacesca/ML-End-to-End.git
+git clone https://github.com/jacesca/End-to-End-ML.git
 ```
 - Setup environment (it requires python3)
 ```

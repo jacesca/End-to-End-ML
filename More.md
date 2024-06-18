@@ -1,5 +1,5 @@
 ## Others
-- Proyect in GitHub: https://github.com/jacesca/SupervisedML
+- Proyect in GitHub: https://github.com/jacesca/End-to-End-ML
 - Commands to save the environment requirements:
 ```
 conda list -e > requirements.txt
